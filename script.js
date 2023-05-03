@@ -133,10 +133,16 @@ var copy = document.querySelector("#copy");
 copy.addEventListener("click", function () {
     copyPassword();
 });
-// This copies the password value - works
+//
+
+
 
 function copyPassword() {
-    document.getElementById("password").select();
-    document.getElementById("copy", generatePassword);
+      // created a variable that grabs content of password from the field
+    var passwordCreated = document.querySelector("#password").textContent;
+    navigator.clipboard.writeText(passwordCreated); 
+    // this copies password to clipboard
+  
     alert("Password copied to clipboard!");
+    // alet to advise that password was copied to a clipboard 
 }
