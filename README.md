@@ -58,3 +58,6 @@ Styles.css located in folde "assets"
 
 One Javascript Page
 scripts.js 
+
+# Credits:
+Starter code by Coding bootcamp, adjustments by Anne Mary Wynter
