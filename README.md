@@ -21,12 +21,19 @@ This project emphasizes the use of using Javascript to make dynamic changes to a
 * A generate button
 This will send the user a series of prompts and confirms
 
+![image](https://user-images.githubusercontent.com/130412307/235821220-a9b39db2-3b44-4509-995a-7f253652d9b8.png)
+
+
 After user data is collected, a random password will be generated using Javascript
 * A Textarea
 This textarea will display the users password once it is generated
+![image](https://user-images.githubusercontent.com/130412307/235821282-0b1bdf51-6222-4a27-a639-839abb783972.png)
+
 
 * A Copy button
 This will copy the users password to the user's devices clipboard
+![image](https://user-images.githubusercontent.com/130412307/235821326-1b6e3b5e-91b5-4613-a085-0533dae46813.png)
+
 
 # This project has script features of:
 Variable declaration area
