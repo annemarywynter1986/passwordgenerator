@@ -54,7 +54,7 @@ One HTML Pages
 Index.html
 
 One CSS Page
-Styles.css located in folde "assets"
+Styles.css located in folder "assets"
 
 One Javascript Page
 scripts.js 
